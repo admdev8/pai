@@ -39,7 +39,7 @@
     "admin-lte": "~2.4.2",
     "app-root-path": "~2.0.1",
     "blueimp-file-upload": "~9.22.1",
-    "bootstrap": "~3.4.0",
+    "bootstrap": "~4.1.2",
     "c3": "^0.7.2",
     "classnames": "^2.2.6",
     "compression": "~1.7.1",
