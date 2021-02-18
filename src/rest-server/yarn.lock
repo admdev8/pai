@@ -1214,10 +1214,10 @@ execa@1.0.0:
     signal-exit "^3.0.0"
     strip-eof "^1.0.0"
 
-express-rate-limit@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-5.1.1.tgz#572e75c47ef890a6c9a3347f27bf3557d571f9ed"
-  integrity sha512-puA1zcCx/quwWUOU6pT6daCt6t7SweD9wKChKhb+KSgFMKRwS81C224hiSAUANw/gnSHiwEhgozM/2ezEBZPeA==
+express-rate-limit@^5.2.6:
+  version "5.2.6"
+  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-5.2.6.tgz#b454e1be8a252081bda58460e0a25bf43ee0f7b0"
+  integrity sha512-nE96xaxGfxiS5jP3tD3kIW1Jg9yQgX0rXCs3rCkZtmbWHEGyotwaezkLj7bnB41Z0uaOLM8W4AX6qHao4IZ2YA==
 
 express@~4.16.2:
   version "4.16.3"
