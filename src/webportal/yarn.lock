@@ -8665,10 +8665,10 @@ react-monaco-editor@^0.25.1:
     monaco-editor "^0.16.0"
     prop-types "^15.7.2"
 
-react-responsive@^8.0.1:
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/react-responsive/-/react-responsive-8.0.1.tgz#38022665dfb759227880f4221c475438a06a1771"
-  integrity sha512-caseFCvFFV4QW+JOl7inzDme+avoX4r7GPpQJ+04NCzIgbroV3BU0noPgHGxVCEFKm9IsgcKOBAf+6MqIUeQIg==
+react-responsive@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/react-responsive/-/react-responsive-8.2.0.tgz#e0ffb306cfd8f38c9c12e26725b9e1245fa9debc"
+  integrity sha512-iagCqVrw4QSjhxKp3I/YK6+ODkWY6G+YPElvdYKiUUbywwh9Ds0M7r26Fj2/7dWFFbOpcGnJE6uE7aMck8j5Qg==
   dependencies:
     hyphenate-style-name "^1.0.0"
     matchmediaquery "^0.3.0"
