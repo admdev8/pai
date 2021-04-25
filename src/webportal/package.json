@@ -98,7 +98,7 @@
     "babel-plugin-lodash": "^3.3.4",
     "copy-webpack-plugin": "~5.0.1",
     "css-loader": "^2.1.1",
-    "cssnano": "^4.1.10",
+    "cssnano": "^4.1.11",
     "ejs-loader": "~0.3.0",
     "envsub": "^4.0.7",
     "eslint": "^6.2.2",
