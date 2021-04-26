@@ -3340,9 +3340,10 @@ sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
 
-ssh-keygen@~0.4.2:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/ssh-keygen/-/ssh-keygen-0.4.2.tgz#7c09a1716eacb6b92d3768ff6145cea5501c6c45"
+ssh-keygen@~0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/ssh-keygen/-/ssh-keygen-0.5.0.tgz#04439075453043894231e8eaa7bbb4320d1d4af3"
+  integrity sha512-TZmhcpeZTkEnIZF0aItjXz0zIIkHnJyti4bIFiO4Ir0tqwsKDPtC7nFnvjPAy/diGXNy7m5ZcGg44QfUNA9y5g==
   dependencies:
     underscore "1.4.x"
 
