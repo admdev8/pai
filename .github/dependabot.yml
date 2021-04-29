@@ -1,0 +1,36 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/src/rest-server"
+  schedule:
+    interval: daily
+    time: "02:00"
+  open-pull-requests-limit: 10
+  target-branch: master
+  reviewers:
+  - abuccts
+  - sunqinzheng
+  ignore:
+  - dependency-name: ajv
+    versions:
+    - 8.1.0
+- package-ecosystem: npm
+  directory: "/src/webportal"
+  schedule:
+    interval: daily
+    time: "02:00"
+  open-pull-requests-limit: 10
+  target-branch: master
+  reviewers:
+  - abuccts
+  - sunqinzheng
+- package-ecosystem: npm
+  directory: "/contrib"
+  schedule:
+    interval: daily
+    time: "02:00"
+  open-pull-requests-limit: 10
+  target-branch: master
+  reviewers:
+  - abuccts
+  - sunqinzheng
