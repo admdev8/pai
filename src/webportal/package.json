@@ -81,7 +81,7 @@
     "sshpk": "^1.16.1",
     "strip-bom-string": "^1.0.0",
     "strip-json-comments": "^2.0.1",
-    "styled-components": "^4.2.0",
+    "styled-components": "^4.4.1",
     "tachyons-sass": "^4.9.5",
     "util": "~0.10.3",
     "webhdfs": "^1.2.0",
