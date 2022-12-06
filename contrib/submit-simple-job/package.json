@@ -15,7 +15,7 @@
     "classnames": "^2.2.6",
     "fetch": "^1.1.0",
     "hashids": "1.2.2",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "whatwg-fetch": "^3.0.0"
